@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.audio_output/
+*.mp3
+nltk_data/
+.DS_Store
+*.log
